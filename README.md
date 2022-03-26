@@ -71,12 +71,4 @@ SMBMS
       <version>1.2.62</version>
     </dependency>
 ```
-### 5. 创建项目结构
 
-   <img src="https://gitee.com/xbd_zc/images/raw/master/img/image-20220310201631161.png" alt="image-20220310201631161" style="zoom:80%;" />
-
-### 6. 编写实体类
-
-      1. ORM映射: 表-;类映射
-
-### 7. 编写基础公共类
